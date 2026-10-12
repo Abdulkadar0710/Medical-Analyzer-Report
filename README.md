@@ -1,4 +1,4 @@
-# Medical Report Analyzer (Express & MongoDB Implementation)
+# Medical Report Analyzer
 
 > A production-hardened full-stack web application for patients to upload medical reports and doctors to analyze patient health data with AI-powered insights, real-time analytics, and role-based access control.
 
